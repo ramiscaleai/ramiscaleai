@@ -8,6 +8,10 @@ I contribute fixes and features to open-source projects in TypeScript full-stack
 <!-- oss:start -->
 | Project | Contribution | Status | Date |
 |---|---|---|---|
+| [moq-dev/moq](https://github.com/moq-dev/moq) ★1.6k | [fix(quic): send MTU probes only on a validated path](https://github.com/moq-dev/moq/pull/7788) | 🔄 In review | 2026-11-04 |
+| [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) ★23.2k | [Fix socket drainer reporting an extra round and waiting after the last batch](https://github.com/phoenixframework/phoenix/pull/6897) | 🔄 In review | 2026-11-04 |
+| [nitrojs/nitro](https://github.com/nitrojs/nitro) ★11.4k | [fix(vite): set the root `build.outDir` to the client output dir](https://github.com/nitrojs/nitro/pull/5026) | 🔄 In review | 2026-11-04 |
+| [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) ★19.3k | [[fix] Support evaluators that return a dictionary of metrics in SentenceTransformer.old_fit()](https://github.com/huggingface/sentence-transformers/pull/4320) | 🔄 In review | 2026-11-04 |
 | [huggingface/transformers.js](https://github.com/huggingface/transformers.js) ★16.4k | [Allow configuring `padding` and `truncation` in `Text2TextGenerationPipeline`](https://github.com/huggingface/transformers.js/pull/1844) | 🔄 In review | 2026-11-03 |
 | [tokio-rs/tokio](https://github.com/tokio-rs/tokio) ★33.6k | [tokio-test: add `SinkMock`](https://github.com/tokio-rs/tokio/pull/8754) | 🔄 In review | 2026-11-03 |
 | [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) ★3.4k | [fix(langgraph): run a checkpointer: true subgraph on its new input after a resume](https://github.com/langchain-ai/langgraphjs/pull/3193) | 🔄 In review | 2026-11-03 |
