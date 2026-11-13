@@ -8,7 +8,6 @@ I contribute fixes and features to open-source projects in TypeScript full-stack
 <!-- oss:start -->
 | Project | Contribution | Status | Date |
 |---|---|---|---|
-| [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) ★10.2k | [feat(linux): add CPU native engine with POSIX memory and prefetch hooks](https://github.com/Edge0-AI/Edge0/pull/166) | 🔄 In review | 2026-11-08 |
 | [moq-dev/moq](https://github.com/moq-dev/moq) ★1.6k | [fix(quic): send MTU probes only on a validated path](https://github.com/moq-dev/moq/pull/7788) | ✅ Merged | 2026-11-04 |
 | [nitrojs/nitro](https://github.com/nitrojs/nitro) ★11.4k | [fix(vite): set the root `build.outDir` to the client output dir](https://github.com/nitrojs/nitro/pull/5026) | ✅ Merged | 2026-11-10 |
 | [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) ★19.3k | [[fix] Support evaluators that return a dictionary of metrics in SentenceTransformer.old_fit()](https://github.com/huggingface/sentence-transformers/pull/4320) | ✅ Merged | 2026-11-05 |
